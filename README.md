@@ -1,4 +1,4 @@
-# AlgProg
+﻿# AlgProg
 Trabalhos da faculdade da cadeira de Algoritmos e Programação
 
 Pacman: 
@@ -7,3 +7,6 @@ Pacman:
   O gráfico será apenas no prompt de comando, com arte ASCII.
   
   O mapa com as posições do labirinto, do pacman, dos fantasmas e das frutinhas será carregado durante a execução a partir de um arquivo 'labirinto.txt'.
+
+
+ ##TRABALHO EM ANDAMENTO
